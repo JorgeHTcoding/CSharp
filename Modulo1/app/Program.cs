@@ -1,5 +1,5 @@
 ﻿
-//Ejercicio 1 
+//Ejercicio 1
 
 Console.WriteLine("Escribe tu nombre por favor: ");
 string nombre = Console.ReadLine();
